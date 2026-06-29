@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0015/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 外臺祕要方
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:04:24.884942'
+  source:
+    repository: kanripo
+    path: KR3e0015/KR3e0015_000.txt
+hash: sha256:881845bef37d7cc8af38993de684d90532b152215ba6cf5ca2ad49f30bf77eb1
